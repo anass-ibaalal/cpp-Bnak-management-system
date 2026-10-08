@@ -5,8 +5,8 @@ A bank management system built using C++, This project demonstrates file handlin
 # Features
 
 ### 1. authentication & Security
--**User login system**: Secure authentication with username and password verification.
--**Role-Based access control (RBAC)**: Fine-grained permission system implemented using **Bitwise Operations** to restrict access per menu (Show, Add, Delete, Update, Transactions, Manage Users, Full Access).
+- **User login system**: Secure authentication with username and password verification.
+- **Role-Based access control (RBAC)**: Fine-grained permission system implemented using **Bitwise Operations** to restrict access per menu (Show, Add, Delete, Update, Transactions, Manage Users, Full Access).
    
 ### 2. Client Management (CRUD Operations)
 - **View Clients**: Formatted ASCII table display of client records (Account Number, PIN, Name, Phone, Balance).
